@@ -58,39 +58,116 @@ Building **Secure dApps** & conducting **Smart Contract Audits** for DeFi protoc
 
 <br/>
 
-## �🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- Languages -->
+<details open>
+<summary><h3>💻 Languages & Core</h3></summary>
+<br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### ⛓️ Blockchain & Web3
+</details>
+
+<!-- Blockchain -->
+<details open>
+<summary><h3>⛓️ Blockchain & Web3</h3></summary>
+<br/>
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=foundry&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-### 🌐 Full Stack Development
+</details>
+
+<!-- Security Focus -->
+<details open>
+<summary><h3>🔐 Security & Auditing</h3></summary>
+<br/>
+
+![Smart Contract Auditing](https://img.shields.io/badge/Smart_Contract_Auditing-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white)
+![Security Research](https://img.shields.io/badge/Security_Research-4CAF50?style=for-the-badge&logo=hackerone&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-2E7D32?style=for-the-badge&logo=ethereum&logoColor=white)
+![Mythril](https://img.shields.io/badge/Mythril-6C3483?style=for-the-badge&logo=ethereum&logoColor=white)
+
+</details>
+
+<!-- Full Stack -->
+<details open>
+<summary><h3>🌐 Full Stack Development</h3></summary>
+<br/>
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools & Platforms
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<!-- Tools -->
+<details open>
+<summary><h3>🔧 Tools & Platforms</h3></summary>
+<br/>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<!-- GenAI -->
+<details open>
+<summary><h3>🤖 GenAI & ML</h3></summary>
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</details>
+
+<!-- Currently Learning -->
+<details open>
+<summary><h3>🚀 Currently Learning & Building</h3></summary>
+<br/>
+
+![Rust](https://img.shields.io/badge/🦀_Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana Programs](https://img.shields.io/badge/Solana_Programs-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Full Stack dApps](https://img.shields.io/badge/Full_Stack_dApps-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+</details>
 
 </div>
 
