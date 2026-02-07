@@ -132,17 +132,3 @@ Building **Secure dApps** & conducting **Smart Contract Audits** for DeFi protoc
 <div align="center">
   <img src="https://raw.githubusercontent.com/shivraj598/shivraj598/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<br/>
-
----
-
-<div align="center">
-  
-### 💭 *"Security is not a product, but a process."* – Bruce Schneier
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
