@@ -3,6 +3,15 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivraj%20Timilsena&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Blockchain%20Engineer%20|%20Security%20Auditor&descAlignY=52&descSize=18"/>
 
+<!-- Social Links -->
+<p>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+</p>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Building+Secure+%26+Scalable+Web3+Solutions+%F0%9F%94%90;Smart+Contract+Security+%7C+DeFi+%7C+Full+Stack+dApps" alt="Typing SVG" /></a>
 
@@ -14,31 +23,42 @@
 
 </div>
 
----
+## � What I'm Currently Up To
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-```typescript
-const shivraj: Developer = {
-    location: "🌏 Building from anywhere",
-    currentFocus: "🔐 Smart Contract Security Audits",
-    learning: "🦀 Rust - Systems Programming",
-    
-    expertise: {
-        blockchain: ["Ethereum", "Solana", "Smart Contracts", "DeFi"],
-        fullStack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-        languages: ["TypeScript", "JavaScript", "Python", "Solidity", "Rust"],
-        security: ["Smart Contract Auditing", "Vulnerability Assessment", "Secure Code Review"]
-    },
-    
-    currentlyBuilding: "Secure Web3 Applications & Auditing Smart Contracts",
-    passions: ["Blockchain Security", "DeFi Protocols", "Open Source"]
-};
-```
+### 🔭 Currently Working On
+Building **Secure dApps** & conducting **Smart Contract Audits** for DeFi protocols
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 Currently Learning
+**Rust** for high-performance systems and **Solana** program development
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💡 Interested In
+**Web3 Security**, **MEV Protection**, and **Zero-Knowledge Proofs**
+
+</td>
+<td align="center" width="50%">
+
+### 🤝 Open To
+**Collaboration** on Web3 projects and **Security Audit** opportunities
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## �🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -76,26 +96,7 @@ const shivraj: Developer = {
 
 <br/>
 
-## 🔐 Security Auditing Focus
-
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    🛡️ SMART CONTRACT SECURITY                    ║
-╠══════════════════════════════════════════════════════════════════╣
-║  • Reentrancy Attacks          • Access Control Vulnerabilities  ║
-║  • Integer Overflow/Underflow  • Flash Loan Exploits             ║
-║  • Front-Running Protection    • Oracle Manipulation             ║
-║  • Gas Optimization            • Upgradeable Contract Security   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivraj598&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
@@ -110,49 +111,6 @@ const shivraj: Developer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivraj598&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 🚀 What I'm Currently Up To
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔭 Currently Working On
-Building **Secure dApps** & conducting **Smart Contract Audits** for DeFi protocols
-
-</td>
-<td align="center" width="50%">
-
-### 🌱 Currently Learning
-**Rust** for high-performance systems and **Solana** program development
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💡 Interested In
-**Web3 Security**, **MEV Protection**, and **Zero-Knowledge Proofs**
-
-</td>
-<td align="center" width="50%">
-
-### 🤝 Open To
-**Collaboration** on Web3 projects and **Security Audit** opportunities
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivraj598&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br/>
