@@ -74,7 +74,7 @@ Building **Secure dApps** & conducting **Smart Contract Audits** for DeFi protoc
 
 <br/>
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shivraj598/shivraj598/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
