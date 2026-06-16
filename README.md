@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivraj%20Timilsena&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Blockchain%20Engineer%20|%20Security%20Auditor&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivraj%20Timilsena&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20GenAI%20Engineer%20|%20ML%20Engineer&descAlignY=52&descSize=18"/>
 
 <!-- Social Links -->
 <p>
@@ -11,18 +11,9 @@
 <a href="https://shivrajtimilsena.com.np" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Building+Secure+%26+Scalable+Web3+Solutions+%F0%9F%94%90;Smart+Contract+Security+%7C+DeFi+%7C+Full+Stack+dApps" alt="Typing SVG" /></a>
-
-<!-- Profile Views & Social Badges -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=shivraj598&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/shivraj598?tab=followers"><img src="https://img.shields.io/github/followers/shivraj598?label=Followers&style=for-the-badge&color=6366f1" alt="followers" /></a>
-</p>
-
 </div>
 
-## � What I'm Currently Up To
+## � My current active projects
 
 <table align="center">
 <tr>
