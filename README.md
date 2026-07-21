@@ -19,6 +19,7 @@
 | **[PDF Analyzier RAG](https://github.com/shivraj598/DocMindAI-Adaptive-Rag)** | Scalable Rag application for analyzing you document | `FastAPI` `React` `PostgreSQL` |
 | **[Ai health Agent](https://github.com/shivraj598/AI-health-receptionist-Agent.)** | AI-powered Health receptionist voice agentic web platform | `Node.js` `Gemini API` `Typescript` `Supabase` |
 | **[The_Research_Desk-](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)** |The_Research_Desk--Multi-Agent-Research-Report-System| `NextJS` `FastAPI` `PostgreSQL` `Langgraph` `MemO` |
+| **[MeroUI - Ui library](https://github.com/shivraj598/meroUI)** |The ui componetn library using shadcn cli| `typescript` `NextJS` `nodeJS` `ExpressJS` `PostgreSQL`|
 
 ### ⚡ Tech Stack
 
