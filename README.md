@@ -1,8 +1,7 @@
-<div align="center">
-  
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivraj%20Timilsena&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20GenAI%20Engineer%20|%20ML%20Engineer&descAlignY=52&descSize=18"/>
 
+
+<div align="left">
+  
 <!-- Social Links -->
 <p>
 <a href="https://www.linkedin.com/in/shivraj-timilsena/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,44 +12,7 @@
 
 </div>
 
-## � My current active projects
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔭 Currently Working On
-Building **Secure dApps** & conducting **Smart Contract Audits** for DeFi protocols
-
-</td>
-<td align="center" width="50%">
-
-### 🌱 Currently Learning
-**Rust** for high-performance systems and **Solana** program development
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💡 Interested In
-**Web3 Security**, **MEV Protection**, and **Zero-Knowledge Proofs**
-
-</td>
-<td align="center" width="50%">
-
-### 🤝 Open To
-**Collaboration** on Web3 projects and **Security Audit** opportunities
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
 
 | 💻 **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 |:--|:--|
