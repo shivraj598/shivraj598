@@ -1,5 +1,5 @@
 
-
+## 👋 I'm shivraj timilsena 
 <div align="left">
   
 <!-- Social Links -->
@@ -7,19 +7,33 @@
 <a href="https://www.linkedin.com/in/shivraj-timilsena/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/home" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 <a href="mailto:timilsenashivraj598@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://shivrajtimilsena.com.np" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+<a href="https://shivraj.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 </div>
 
+### 🚀 What I'm Working On
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[PDF Analyzier RAG](https://github.com/shivraj598/DocMindAI-Adaptive-Rag)** | Scalable Rag application for analyzing you document | `FastAPI` `React` `PostgreSQL` |
+| **[Ai health Agent](https://github.com/shivraj598/AI-health-receptionist-Agent.)** | AI-powered Health receptionist voice agentic web platform | `Node.js` `Gemini API` `Typescript` `Supabase` |
+| **[The_Research_Desk-](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)** |The_Research_Desk--Multi-Agent-Research-Report-System| `NextJS` `FastAPI` `PostgreSQL` `Langgraph` `MemO` |
+
+### ⚡ Tech Stack
+
+* **Languages:** `JavaScript` `TypeScript` `Python`  
+* **Backend:** `Django` `FastAPI` `Node.js` `Express` `REST APIs`  
+* **AI Frameworks:** `LangChain` `LangGraph`  
+* **ML Libraries:** `NumPy` `Pandas` `Scikit-Learn` `PyTorch`  
+* **Databases & Vector:** `PostgreSQL` `MongoDB` `Redis` `ChromaDB` `Supabase`  
+* **Frontend & UI:** `React` `Next.js` `Tailwind CSS` `Figma`  
+* **DevOps & Cloud:** `Linux (Ubuntu Server)` `Docker` `Git` `Cloudflare`  
 
 
-| 💻 **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-|:--|:--|
-| 🌐 **Full Stack** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| 🗄️ **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 🤖 **GenAI** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
-| 🔧 **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
-</div>
+
+
+
+
 
