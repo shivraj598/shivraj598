@@ -1,5 +1,5 @@
 
-## 👋 I'm shivraj timilsena 
+## 👋 I'm shivraj Timilsena
 <div align="left">
   
 <!-- Social Links -->
@@ -20,6 +20,7 @@
 | **[Ai health Agent](https://github.com/shivraj598/AI-health-receptionist-Agent.)** | AI-powered Health receptionist voice agentic web platform | `Node.js` `Gemini API` `Typescript` `Supabase` |
 | **[The_Research_Desk-](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)** |The_Research_Desk--Multi-Agent-Research-Report-System| `NextJS` `FastAPI` `PostgreSQL` `Langgraph` `MemO` |
 | **[MeroUI - Ui library](https://github.com/shivraj598/meroUI)** |The ui componetn library using shadcn cli| `typescript` `NextJS` `nodeJS` `ExpressJS` `PostgreSQL`|
+| **[whiteboardAI](https://github.com/shivraj598/whiteboardAI)** |A browser-based infinite whiteboard for notes and drawing — an Excalidraw-style clone with extra features: editable tables, data-driven charts (bar / line / pie), and image insertion.| `fabricJs 7` `React 19` `Vite 8` `oxlint` `Vanilla CSS`|
 
 ### ⚡ Tech Stack
 
