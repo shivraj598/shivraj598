@@ -21,6 +21,7 @@
 | **[The_Research_Desk-](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)** |The_Research_Desk--Multi-Agent-Research-Report-System| `NextJS` `FastAPI` `PostgreSQL` `Langgraph` `MemO` |
 | **[MeroUI - Ui library](https://github.com/shivraj598/meroUI)** |The ui componetn library using shadcn cli| `typescript` `NextJS` `nodeJS` `ExpressJS` `PostgreSQL`|
 | **[whiteboardAI](https://github.com/shivraj598/whiteboardAI)** |A browser-based infinite whiteboard for notes and drawing — an Excalidraw-style clone with extra features: editable tables, data-driven charts (bar / line / pie), and image insertion.| `fabricJs 7` `React 19` `Vite 8` `oxlint` `Vanilla CSS`|
+| **[ProjectFlow- project management app](https://github.com/shivraj598/meroUI)** | A real-time, multi-tenant project management platform inspired by Jira, Linear & Trello| `typescript` `ReactJS` `nodeJS` `ExpressJS` `PostgreSQL` `PrismaORM` `SocketIO` `Zod` `JWT` `Zustand` `TanStack Query`|
 
 ### ⚡ Tech Stack
 
