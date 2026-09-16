@@ -1,6 +1,15 @@
-## 👋 Hey, I'm Shivraj Timilsena <sub><a href="https://www.linkedin.com/in/shivraj-timilsena/">LinkedIn</a> · <a href="mailto:timilsenashivraj598@gmail.com">Email</a> · <a href="https://shivrajtimilsena.com.np">Portfolio</a> · <a href="https://shivrajtimilsena.com.np/#blogs">Blogs</a> · <a href="https://medium.com/@timilsenashivraj598">Medium</a> · <a href="https://github.com/shivraj598">GitHub</a></sub>
+## 👋 Hey, I'm Shivraj Timilsena
 
 I am a full-stack developer and AI engineer focused on building useful products with modern web technologies, intelligent agents, and large language models. I enjoy working close to the foundations of AI by exploring LLM internals, memory management, and reliable agentic systems. Alongside building software, I conduct research and write about what I learn through my [Medium](https://medium.com/@timilsenashivraj598).
+
+<p>
+  <a href="https://www.linkedin.com/in/shivraj-timilsena/">LinkedIn</a> ·
+  <a href="mailto:timilsenashivraj598@gmail.com">Email</a> ·
+  <a href="https://shivrajtimilsena.com.np">Portfolio</a> ·
+  <a href="https://shivrajtimilsena.com.np/#blogs">Blogs</a> ·
+  <a href="https://medium.com/@timilsenashivraj598">Medium</a> ·
+  <a href="https://github.com/shivraj598">GitHub</a>
+</p>
 
 [![JavaScript][badge-js]][x]
 [![TypeScript][badge-ts]][x]
@@ -44,7 +53,7 @@ I am a full-stack developer and AI engineer focused on building useful products 
 
 ## Currently Exploring
 
-I am currently building agentic development tools that help developers research, reason, and ship software more effectively. My research explores LLM memory management, model internals, long-running agent workflows, and reliable context handling. I am also writing technical papers and sharing experiments, ideas, and lessons learned on [Medium](https://medium.com/@timilsenashivraj598).
+I am currently building agentic development tools, conducting research, and writing papers. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
 
 <!-- Skill badge links -->
 [x]: https://github.com/shivraj598
