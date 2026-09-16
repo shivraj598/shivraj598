@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Shivraj Timilsena
 
-I am a full-stack developer and AI engineer focused on building useful products with modern web technologies, intelligent agents, and large language models. I enjoy working close to the foundations of AI by exploring LLM internals, memory management, and reliable agentic systems. Alongside building software, I conduct research and write about what I learn through my [Medium](https://medium.com/@timilsenashivraj598).
+Full-stack AI engineer building agentic systems and exploring LLM internals, inference, memory, context, fine-tuning, and RAG. I research and write about what I learn on [Medium](https://medium.com/@timilsenashivraj598).
 
 <p>
   <a href="https://www.linkedin.com/in/shivraj-timilsena/">LinkedIn</a> ·
@@ -28,6 +28,11 @@ I am a full-stack developer and AI engineer focused on building useful products 
 [![LangGraph][badge-langgraph]][x]
 [![LangSmith][badge-langsmith]][x]
 [![LLMs][badge-llms]][x]
+[![Fine-Tuning][badge-finetuning]][x]
+
+## Currently Exploring
+
+Exploring LLM internals, building GPT inference systems, and researching context and memory management, RAG latency optimization, and tokenization. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
 
 ## Live Projects
 
@@ -51,10 +56,6 @@ I am a full-stack developer and AI engineer focused on building useful products 
 - **[Reminder](https://github.com/shivraj598/Reminder)** — Browser extension for water and daily task reminders. [Repository](https://github.com/shivraj598/Reminder)
 - **[YT Slice](https://github.com/shivraj598/ytslice)** — Process YouTube videos with metadata and streaming tools. [Repository](https://github.com/shivraj598/ytslice)
 
-## Currently Exploring
-
-I am currently building agentic development tools, conducting research, and writing papers. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
-
 <!-- Skill badge links -->
 [x]: https://github.com/shivraj598
 [badge-js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
@@ -74,3 +75,4 @@ I am currently building agentic development tools, conducting research, and writ
 [badge-langgraph]: https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white
 [badge-langsmith]: https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white
 [badge-llms]: https://img.shields.io/badge/-LLMs-6E56CF?style=flat-square&logo=openai&logoColor=white
+[badge-finetuning]: https://img.shields.io/badge/-Fine--Tuning-FFAA00?style=flat-square&logo=huggingface&logoColor=black
