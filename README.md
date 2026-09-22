@@ -34,7 +34,7 @@ Full-stack AI engineer building agentic systems and exploring LLM internals, inf
 
 Exploring LLM internals, building GPT inference systems, and researching context and memory management, RAG latency optimization, and tokenization. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
 
-- - **[Dotfiles](https://github.com/shivraj598/dotfiles)** — my personal NEOVIM, TMUX and other setup i use daily for coding.
+- **[Dotfiles](https://github.com/shivraj598/dotfiles)** — My personal Neovim, Tmux, and shell setup tuned for daily development workflow and productivity.
 
 ## Live Projects
 
@@ -56,6 +56,7 @@ Exploring LLM internals, building GPT inference systems, and researching context
 - **[WhiteboardAI](https://github.com/shivraj598/whiteboardAI)** — Infinite whiteboard for notes, charts, tables, and images. [Repository](https://github.com/shivraj598/whiteboardAI)
 - **[MeroUI](https://github.com/shivraj598/meroUI)** — Reusable UI component library powered by shadcn. [Repository](https://github.com/shivraj598/meroUI)
 - **[Reminder](https://github.com/shivraj598/Reminder)** — Browser extension for water and daily task reminders. [Repository](https://github.com/shivraj598/Reminder)
+- **[Finance Dashboard API](https://github.com/shivraj598/finance-dashboard-api)** — API for financial data, dashboard metrics, and transaction insights. [Repository](https://github.com/shivraj598/finance-dashboard-api)
 - **[YT Slice](https://github.com/shivraj598/ytslice)** — Process YouTube videos with metadata and streaming tools. [Repository](https://github.com/shivraj598/ytslice)
 
 <!-- Skill badge links -->
