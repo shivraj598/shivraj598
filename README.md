@@ -34,7 +34,7 @@ Full-stack AI engineer building agentic systems and exploring LLM internals, inf
 
 Exploring LLM internals, building GPT inference systems, and researching context and memory management, RAG latency optimization, and tokenization. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
 
-- **[Dotfiles](https://github.com/shivraj598/dotfiles)** — My personal <font color="#00FF00">NEOVIM</font>, <font color="#00FF00">TMUX</font>, and shell setup tuned for daily development workflow and productivity.
+- **[Dotfiles](https://github.com/shivraj598/dotfiles)** — My personal <span style="background-color:#556B2F;color:#FFFFFF;">NEOVIM</span>, <span style="background-color:#556B2F;color:#FFFFFF;">TMUX</span>, and shell setup tuned for daily development workflow and productivity.
 
 ## Live Projects
 
