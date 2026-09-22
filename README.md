@@ -34,6 +34,8 @@ Full-stack AI engineer building agentic systems and exploring LLM internals, inf
 
 Exploring LLM internals, building GPT inference systems, and researching context and memory management, RAG latency optimization, and tokenization. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
 
+- - **[Dotfiles](https://github.com/shivraj598/dotfiles)** — my personal NEOVIM, TMUX and other setup i use daily for coding.
+
 ## Live Projects
 
 - **[MeroUI](https://github.com/shivraj598/meroUI)** — Reusable UI component library powered by shadcn. [Live Preview](https://meroui.shivraj.me)
