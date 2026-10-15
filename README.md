@@ -47,6 +47,8 @@ Exploring LLM internals, building GPT inference systems, and researching context
 
 - **[DocMindAI](https://github.com/shivraj598/DocMindAI-Adaptive-Rag)** — Analyze documents with a scalable RAG platform. [Repository](https://github.com/shivraj598/DocMindAI-Adaptive-Rag)
 - **[AI Health Receptionist](https://github.com/shivraj598/AI-health-receptionist-Agent.)** — AI voice receptionist for modern healthcare teams. [Repository](https://github.com/shivraj598/AI-health-receptionist-Agent.)
+- **[Health AI Call Agent SaaS](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)** — AI-powered call-agent SaaS starter for healthcare workflows. [Repository](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)
+- **[Bolum](https://github.com/shivraj598/Bolum-The_dictation_tool)** — Speech-to-text dictation tool for capturing ideas and notes. [Repository](https://github.com/shivraj598/Bolum-The_dictation_tool)
 - **[The Research Desk](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)** — Multi-agent workspace for research reports and insights. [Repository](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)
 - **[GuardRailDB](https://github.com/shivraj598/GuardRailDB--Secure_MCP_for_AI_to_Access_Database)** — Secure MCP gateway connecting AI agents with Postgres. [Repository](https://github.com/shivraj598/GuardRailDB--Secure_MCP_for_AI_to_Access_Database)
 
@@ -55,6 +57,8 @@ Exploring LLM internals, building GPT inference systems, and researching context
 - **[ProjectFlow](https://github.com/shivraj598/ProjectFlow)** — Real-time project management for collaborative product teams. [Repository](https://github.com/shivraj598/ProjectFlow)
 - **[WhiteboardAI](https://github.com/shivraj598/whiteboardAI)** — Infinite whiteboard for notes, charts, tables, and images. [Repository](https://github.com/shivraj598/whiteboardAI)
 - **[MeroUI](https://github.com/shivraj598/meroUI)** — Reusable UI component library powered by shadcn. [Repository](https://github.com/shivraj598/meroUI)
+- **[Bolum](https://github.com/shivraj598/Bolum-The_dictation_tool)** — Speech-to-text dictation tool for capturing ideas and notes. [Repository](https://github.com/shivraj598/Bolum-The_dictation_tool)
+- **[Health AI Call Agent SaaS](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)** — AI-powered call-agent SaaS starter for healthcare workflows. [Repository](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)
 - **[Reminder](https://github.com/shivraj598/Reminder)** — Browser extension for water and daily task reminders. [Repository](https://github.com/shivraj598/Reminder)
 - **[Finance Dashboard API](https://github.com/shivraj598/finance-dashboard-api)** — API for financial data, dashboard metrics, and transaction insights. [Repository](https://github.com/shivraj598/finance-dashboard-api)
 - **[YT Slice](https://github.com/shivraj598/ytslice)** — Process YouTube videos with metadata and streaming tools. [Repository](https://github.com/shivraj598/ytslice)
