@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Shivraj Timilsena
 
-Full-stack AI engineer building agentic systems and exploring LLM internals, inference, memory, context, fine-tuning, and RAG. I research and write about what I learn on [Medium](https://medium.com/@timilsenashivraj598).
+Full-stack AI engineer building agentic systems and exploring LLM internals, inference, memory, context, fine-tuning, and RAG. I research and write about what I learn. 
 
 <p>
   <a href="https://www.linkedin.com/in/shivraj-timilsena/">LinkedIn</a> ·
