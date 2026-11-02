@@ -11,24 +11,22 @@ Full-stack AI engineer building agentic systems and exploring LLM internals, inf
   <a href="https://github.com/shivraj598">GitHub</a>
 </p>
 
+[![Inference Engineering][badge-inference]][x]
+[![C++][badge-cpp]][x]
+[![Fine-Tuning][badge-finetuning]][x]
+[![Rust][badge-rust]][x]
+[![Agentic Development][badge-agentic]][x]
+[![LLMs][badge-llms]][x]
 [![JavaScript][badge-js]][x]
 [![TypeScript][badge-ts]][x]
 [![Python][badge-python]][x]
-[![Node.js][badge-node]][x]
-[![React][badge-react]][x]
-[![Next.js][badge-next]][x]
 [![FastAPI][badge-fastapi]][x]
 [![Django][badge-django]][x]
 [![PostgreSQL][badge-postgres]][x]
 [![MongoDB][badge-mongodb]][x]
 [![Docker][badge-docker]][x]
-[![Git][badge-git]][x]
 [![TensorFlow][badge-tensorflow]][x]
 [![PyTorch][badge-pytorch]][x]
-[![LangGraph][badge-langgraph]][x]
-[![LangSmith][badge-langsmith]][x]
-[![LLMs][badge-llms]][x]
-[![Fine-Tuning][badge-finetuning]][x]
 
 ## Currently Exploring
 
@@ -71,18 +69,16 @@ Exploring LLM internals, building GPT inference systems, and researching context
 [badge-js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [badge-ts]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
 [badge-python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-[badge-node]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-[badge-react]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
-[badge-next]: https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white
+[badge-cpp]: https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
+[badge-rust]: https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white
 [badge-fastapi]: https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
 [badge-django]: https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white
 [badge-postgres]: https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
 [badge-mongodb]: https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
 [badge-docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-[badge-git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
 [badge-tensorflow]: https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
 [badge-pytorch]: https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
-[badge-langgraph]: https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white
-[badge-langsmith]: https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white
+[badge-agentic]: https://img.shields.io/badge/-Agentic%20Development-1C3C3C?style=flat-square&logo=probot&logoColor=white
 [badge-llms]: https://img.shields.io/badge/-LLMs-6E56CF?style=flat-square&logo=openai&logoColor=white
+[badge-inference]: https://img.shields.io/badge/-Inference%20Engineering-FF4F8B?style=flat-square&logo=nvidia&logoColor=white
 [badge-finetuning]: https://img.shields.io/badge/-Fine--Tuning-FFAA00?style=flat-square&logo=huggingface&logoColor=black
